@@ -6,4 +6,4 @@ This repository contains rendered images of my blender projects
 |----------------|------------|
 | [2019](./2019) |     6      |
 | [2020](./2020) |     1      |
-| [2021](./2021) |     2      |
+| [2021](./2021) |     3      |
